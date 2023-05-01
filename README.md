@@ -28,7 +28,7 @@
 
 ### Banco de Dados:
 
-- Banco de dados academia
+- Banco de dados criado teste3
 - Tabelas criadas no Banco:
 
 ```
