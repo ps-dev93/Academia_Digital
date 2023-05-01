@@ -9,7 +9,7 @@
 
   - Java
   - Maven
-  - Springboot
+  - Springbot
 
 
   ### Dependências adicionadas ao Projeto
