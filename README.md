@@ -38,14 +38,6 @@ tb_matriculas;
 
 ```
 
-
-- 
-
-```
-
-```
-
-
 - Principais Rotas do Projeto 
 
 ```
