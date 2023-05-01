@@ -47,5 +47,6 @@ tb_matriculas;
 ```
 
 
-<DESAFIO CONCLUIDO>
+<OBS===> Algumas mudanças foram implementas em relação ao projeto original tais como: o nome do banco de dados de academia para teste3
+e optei por uma string de conexão diferente na application.properties >
 
